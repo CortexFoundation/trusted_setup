@@ -67,5 +67,5 @@ This will generate the contribution that can finally be used to create the verif
 python3 export_keys.py
 ```
 
-This will use the latest `zion_mpc_NNNN.zip` file it can find and write the keys to `protocols/packages/loopring_v3/keys`.
+This will use the latest `zion_mpc_NNNN.zip` file to create keys.
 
