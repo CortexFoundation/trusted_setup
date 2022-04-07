@@ -1,0 +1,7 @@
+phase1radix*
+__pycache__/
+nohup.out
+blocks/
+circuits/
+*.zip
+params
